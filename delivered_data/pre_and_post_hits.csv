@@ -1,0 +1,261 @@
+,activity,before_break,date,day,h1,h2,h3,h4,h5,player,practice,type
+4361,pre,True,2017-07-31 19:05:00,Monday,1.0,0.0,0.0,0.0,0.0,linebacker,fall camp practice #1,camp
+4360,pre,True,2017-07-31 19:05:00,Monday,1.0,0.0,1.0,0.0,0.0,off guard,fall camp practice #1,camp
+4349,post,False,2017-07-31 20:50:00,Monday,1.0,0.0,0.0,0.0,0.0,def tackle,fall camp practice #1,camp
+4323,pre,True,2017-08-02 09:35:00,Wednesday,1.0,0.0,0.0,0.0,0.0,tight end,fall camp practice #3,camp
+4324,pre,True,2017-08-02 09:35:00,Wednesday,1.0,0.0,0.0,0.0,0.0,def end,fall camp practice #3,camp
+4250,pre,True,2017-08-03 09:35:00,Thursday,0.0,1.0,1.0,0.0,0.0,tight end,fall camp practice #4,camp
+4157,pre,True,2017-08-04 09:35:00,Friday,1.0,0.0,0.0,0.0,0.0,off tackle,fall camp practice #5,camp
+4158,pre,True,2017-08-04 09:35:00,Friday,0.0,1.0,0.0,0.0,0.0,tight end,fall camp practice #5,camp
+4090,pre,True,2017-08-06 11:45:00,Sunday,0.0,0.0,1.0,0.0,0.0,def end,fall camp practice #6,camp
+4089,pre,True,2017-08-06 11:45:00,Sunday,1.0,0.0,0.0,0.0,0.0,off tackle,fall camp practice #6,camp
+4013,pre,True,2017-08-07 09:35:00,Monday,1.0,0.0,0.0,0.0,0.0,off tackle,fall camp practice #7,camp
+4012,pre,True,2017-08-07 09:35:00,Monday,2.0,0.0,0.0,0.0,0.0,tight end,fall camp practice #7,camp
+3850,post,False,2017-08-09 11:10:00,Wednesday,1.0,2.0,0.0,1.0,0.0,tight end,fall camp scrimmage 1,camp
+3667,pre,True,2017-08-16 09:35:00,Wednesday,0.0,1.0,1.0,0.0,0.0,running back,fall camp practice #14,camp
+3666,pre,True,2017-08-16 09:35:00,Wednesday,2.0,0.0,0.0,0.0,0.0,tight end,fall camp practice #14,camp
+3498,post,False,2017-08-20 13:35:00,Sunday,2.0,0.0,0.0,0.0,0.0,tight end,Oklahoma State #1,tues
+3497,pre,True,2017-08-22 15:35:00,Tuesday,3.0,0.0,0.0,0.0,0.0,tight end,Oklahoma State #2,tues
+3496,pre,True,2017-08-22 15:35:00,Tuesday,1.0,0.0,0.0,0.0,0.0,off guard,Oklahoma State #2,tues
+3495,pre,True,2017-08-22 15:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,tight end,Oklahoma State #2,tues
+3452,post,False,2017-08-22 17:30:00,Tuesday,1.0,0.0,0.0,0.0,0.0,off guard,Oklahoma State #2,tues
+3453,post,False,2017-08-22 17:30:00,Tuesday,1.0,0.0,0.0,0.0,0.0,tight end,Oklahoma State #2,tues
+3451,pre,True,2017-08-23 15:40:00,Wednesday,6.0,1.0,0.0,0.0,0.0,off guard,Oklahoma State #3,wed
+3450,pre,True,2017-08-23 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,tight end,Oklahoma State #3,wed
+3367,pre,True,2017-08-25 15:40:00,Friday,1.0,0.0,0.0,0.0,0.0,off tackle,Oklahoma State #5,tues
+3333,pre,True,2017-08-26 10:35:00,Saturday,2.0,0.0,0.0,0.0,0.0,off tackle,Oklahoma State #6,wed
+3332,pre,True,2017-08-26 10:40:00,Saturday,1.0,0.0,0.0,0.0,0.0,off tackle,Oklahoma State #6,wed
+3276,pre,True,2017-08-29 15:35:00,Tuesday,2.0,0.0,1.0,0.0,0.0,def end,Oklahoma State #8,thurs
+3275,pre,True,2017-08-29 15:35:00,Tuesday,10.0,10.0,0.0,0.0,0.0,def tackle,Oklahoma State #8,thurs
+3271,pre,True,2017-08-29 15:40:00,Tuesday,1.0,1.0,0.0,0.0,0.0,def end,Oklahoma State #8,thurs
+3269,pre,True,2017-08-29 15:40:00,Tuesday,1.0,1.0,0.0,0.0,0.0,cornerback,Oklahoma State #8,thurs
+3273,pre,True,2017-08-29 15:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,off guard,Oklahoma State #8,thurs
+3272,pre,True,2017-08-29 15:40:00,Tuesday,0.0,1.0,0.0,0.0,0.0,off guard,Oklahoma State #8,thurs
+3270,pre,True,2017-08-29 15:40:00,Tuesday,1.0,0.0,0.0,0.0,0.0,off tackle,Oklahoma State #8,thurs
+3274,pre,True,2017-08-29 15:40:00,Tuesday,1.0,1.0,0.0,0.0,0.0,safety,Oklahoma State #8,thurs
+3197,pre,True,2017-08-31 17:50:00,Thursday,1.0,0.0,0.0,0.0,0.0,wide receiver,Oklahoma State Game,game
+3198,pre,True,2017-08-31 17:50:00,Thursday,0.0,1.0,0.0,0.0,0.0,running back,Oklahoma State Game,game
+3196,pre,True,2017-08-31 17:55:00,Thursday,0.0,1.0,0.0,0.0,0.0,wide receiver,Oklahoma State Game,game
+3194,pre,True,2017-08-31 18:00:00,Thursday,1.0,0.0,0.0,0.0,0.0,linebacker,Oklahoma State Game,game
+3193,pre,True,2017-08-31 18:00:00,Thursday,2.0,0.0,0.0,0.0,0.0,def end,Oklahoma State Game,game
+3192,pre,True,2017-08-31 18:00:00,Thursday,0.0,1.0,0.0,0.0,0.0,linebacker,Oklahoma State Game,game
+3191,pre,True,2017-08-31 18:00:00,Thursday,1.0,0.0,0.0,0.0,0.0,off guard,Oklahoma State Game,game
+3195,pre,True,2017-08-31 18:00:00,Thursday,1.0,0.0,0.0,0.0,0.0,def tackle,Oklahoma State Game,game
+3190,pre,True,2017-08-31 18:05:00,Thursday,1.0,0.0,0.0,0.0,0.0,off guard,Oklahoma State Game,game
+3189,pre,True,2017-08-31 18:05:00,Thursday,1.0,2.0,0.0,1.0,1.0,linebacker,Oklahoma State Game,game
+3188,pre,True,2017-08-31 18:05:00,Thursday,1.0,0.0,0.0,0.0,0.0,wide receiver,Oklahoma State Game,game
+3187,pre,True,2017-08-31 18:05:00,Thursday,2.0,2.0,0.0,0.0,0.0,linebacker,Oklahoma State Game,game
+3186,pre,True,2017-08-31 18:05:00,Thursday,1.0,0.0,0.0,0.0,0.0,safety,Oklahoma State Game,game
+3185,pre,True,2017-08-31 18:05:00,Thursday,3.0,0.0,0.0,0.0,0.0,running back,Oklahoma State Game,game
+3184,pre,True,2017-08-31 18:05:00,Thursday,1.0,0.0,0.0,0.0,0.0,tight end,Oklahoma State Game,game
+3183,pre,True,2017-08-31 18:05:00,Thursday,1.0,0.0,0.0,0.0,0.0,def tackle,Oklahoma State Game,game
+3180,pre,True,2017-08-31 18:10:00,Thursday,1.0,1.0,0.0,0.0,0.0,def end,Oklahoma State Game,game
+3179,pre,True,2017-08-31 18:10:00,Thursday,0.0,0.0,1.0,0.0,0.0,running back,Oklahoma State Game,game
+3182,pre,True,2017-08-31 18:10:00,Thursday,2.0,1.0,0.0,0.0,0.0,linebacker,Oklahoma State Game,game
+3181,pre,True,2017-08-31 18:10:00,Thursday,2.0,0.0,0.0,0.0,0.0,running back,Oklahoma State Game,game
+3178,pre,True,2017-08-31 18:15:00,Thursday,1.0,0.0,0.0,0.0,0.0,off tackle,Oklahoma State Game,game
+3177,pre,True,2017-08-31 18:15:00,Thursday,1.0,1.0,0.0,0.0,0.0,off guard,Oklahoma State Game,game
+3176,pre,True,2017-08-31 18:15:00,Thursday,0.0,1.0,0.0,0.0,0.0,linebacker,Oklahoma State Game,game
+2993,pre,True,2017-09-05 15:25:00,Tuesday,0.0,1.0,0.0,0.0,0.0,def tackle,Louisiana #1,tues
+2992,pre,True,2017-09-05 15:35:00,Tuesday,2.0,2.0,1.0,1.0,1.0,off guard,Louisiana #1,tues
+2988,pre,True,2017-09-05 15:40:00,Tuesday,1.0,1.0,0.0,0.0,0.0,linebacker,Louisiana #1,tues
+2991,pre,True,2017-09-05 15:40:00,Tuesday,3.0,1.0,0.0,0.0,0.0,tight end,Louisiana #1,tues
+2990,pre,True,2017-09-05 15:40:00,Tuesday,2.0,1.0,0.0,0.0,0.0,def tackle,Louisiana #1,tues
+2989,pre,True,2017-09-05 15:40:00,Tuesday,0.0,2.0,1.0,1.0,0.0,off guard,Louisiana #1,tues
+2885,pre,True,2017-09-06 15:35:00,Wednesday,1.0,0.0,0.0,0.0,0.0,off guard,Louisiana #2,wed
+2884,pre,True,2017-09-06 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,linebacker,Louisiana #2,wed
+2883,pre,True,2017-09-06 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,tight end,Louisiana #2,wed
+2882,pre,True,2017-09-06 15:40:00,Wednesday,0.0,0.0,1.0,0.0,0.0,off tackle,Louisiana #2,wed
+2881,pre,True,2017-09-06 15:40:00,Wednesday,3.0,2.0,0.0,1.0,0.0,off guard,Louisiana #2,wed
+2880,pre,True,2017-09-06 15:40:00,Wednesday,0.0,3.0,0.0,0.0,0.0,def tackle,Louisiana #2,wed
+2792,post,False,2017-09-06 17:40:00,Wednesday,2.0,1.0,0.0,0.0,0.0,safety,Louisiana #2,wed
+2791,pre,True,2017-09-07 15:30:00,Thursday,1.0,1.0,0.0,0.0,0.0,safety,Louisiana #3,thurs
+2790,pre,True,2017-09-07 15:35:00,Thursday,1.0,1.0,0.0,0.0,0.0,tight end,Louisiana #3,thurs
+2789,pre,True,2017-09-07 15:35:00,Thursday,2.0,0.0,0.0,0.0,0.0,off guard,Louisiana #3,thurs
+2788,pre,True,2017-09-07 15:35:00,Thursday,0.0,1.0,0.0,0.0,0.0,def tackle,Louisiana #3,thurs
+2787,pre,True,2017-09-07 15:35:00,Thursday,1.0,0.0,0.0,0.0,0.0,def end,Louisiana #3,thurs
+2786,pre,True,2017-09-07 15:40:00,Thursday,2.0,0.0,0.0,0.0,0.0,off guard,Louisiana #3,thurs
+2785,pre,True,2017-09-07 15:40:00,Thursday,0.0,1.0,0.0,0.0,0.0,wide receiver,Louisiana #3,thurs
+2784,pre,True,2017-09-07 15:40:00,Thursday,1.0,0.0,0.0,0.0,0.0,def end,Louisiana #3,thurs
+2783,pre,True,2017-09-07 15:40:00,Thursday,1.0,0.0,0.0,0.0,0.0,def end,Louisiana #3,thurs
+2726,pre,True,2017-09-09 14:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,tight end,Louisiana Game,game
+2728,pre,True,2017-09-09 14:30:00,Saturday,0.0,1.0,0.0,0.0,0.0,wide receiver,Louisiana Game,game
+2727,pre,True,2017-09-09 14:30:00,Saturday,2.0,1.0,0.0,0.0,0.0,cornerback,Louisiana Game,game
+2724,pre,True,2017-09-09 14:35:00,Saturday,0.0,1.0,0.0,0.0,0.0,running back,Louisiana Game,game
+2725,pre,True,2017-09-09 14:35:00,Saturday,1.0,0.0,1.0,0.0,0.0,linebacker,Louisiana Game,game
+2723,pre,True,2017-09-09 14:35:00,Saturday,1.0,0.0,1.0,3.0,1.0,linebacker,Louisiana Game,game
+2722,pre,True,2017-09-09 14:35:00,Saturday,2.0,1.0,0.0,0.0,0.0,cornerback,Louisiana Game,game
+2721,pre,True,2017-09-09 14:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,def tackle,Louisiana Game,game
+2720,pre,True,2017-09-09 14:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,cornerback,Louisiana Game,game
+2719,pre,True,2017-09-09 14:35:00,Saturday,2.0,0.0,0.0,0.0,0.0,safety,Louisiana Game,game
+2718,pre,True,2017-09-09 14:35:00,Saturday,4.0,1.0,0.0,0.0,0.0,tight end,Louisiana Game,game
+2717,pre,True,2017-09-09 14:40:00,Saturday,0.0,1.0,0.0,0.0,0.0,wide receiver,Louisiana Game,game
+2516,pre,True,2017-09-12 15:35:00,Tuesday,1.0,1.0,0.0,0.0,0.0,off guard,Toledo #1,tues
+2515,pre,True,2017-09-12 15:35:00,Tuesday,2.0,0.0,0.0,0.0,0.0,tight end,Toledo #1,tues
+2514,pre,True,2017-09-12 15:40:00,Tuesday,1.0,0.0,1.0,0.0,0.0,wide receiver,Toledo #1,tues
+2513,pre,True,2017-09-12 15:40:00,Tuesday,2.0,0.0,1.0,0.0,0.0,off guard,Toledo #1,tues
+2438,pre,True,2017-09-13 15:35:00,Wednesday,1.0,0.0,0.0,0.0,0.0,off guard,Toledo #2,wed
+2436,pre,True,2017-09-13 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,off tackle,Toledo #2,wed
+2437,pre,True,2017-09-13 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,off tackle,Toledo #2,wed
+2357,pre,True,2017-09-14 15:30:00,Thursday,4.0,1.0,0.0,0.0,0.0,def tackle,Toledo #3,thurs
+2356,pre,True,2017-09-14 15:35:00,Thursday,1.0,0.0,0.0,0.0,0.0,def tackle,Toledo #3,thurs
+2355,pre,True,2017-09-14 15:35:00,Thursday,1.0,1.0,0.0,0.0,0.0,off guard,Toledo #3,thurs
+2352,pre,True,2017-09-14 15:40:00,Thursday,2.0,2.0,0.0,0.0,0.0,off guard,Toledo #3,thurs
+2354,pre,True,2017-09-14 15:40:00,Thursday,1.0,0.0,0.0,0.0,0.0,off tackle,Toledo #3,thurs
+2353,pre,True,2017-09-14 15:40:00,Thursday,0.0,0.0,0.0,1.0,0.0,off guard,Toledo #3,thurs
+2286,pre,True,2017-09-16 17:20:00,Saturday,1.0,0.0,0.0,0.0,0.0,wide receiver,Toledo Game,game
+2282,pre,True,2017-09-16 17:30:00,Saturday,2.0,0.0,0.0,0.0,0.0,off guard,Toledo Game,game
+2281,pre,True,2017-09-16 17:30:00,Saturday,3.0,0.0,0.0,0.0,0.0,wide receiver,Toledo Game,game
+2284,pre,True,2017-09-16 17:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,running back,Toledo Game,game
+2283,pre,True,2017-09-16 17:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,def tackle,Toledo Game,game
+2285,pre,True,2017-09-16 17:30:00,Saturday,1.0,1.0,0.0,0.0,0.0,off guard,Toledo Game,game
+2280,pre,True,2017-09-16 17:35:00,Saturday,1.0,1.0,2.0,1.0,0.0,linebacker,Toledo Game,game
+2279,pre,True,2017-09-16 17:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,def end,Toledo Game,game
+2278,pre,True,2017-09-16 17:35:00,Saturday,1.0,1.0,0.0,0.0,0.0,linebacker,Toledo Game,game
+2100,pre,True,2017-09-20 15:40:00,Wednesday,2.0,1.0,0.0,0.0,0.0,tight end,New Mexico #2,wed
+2058,pre,True,2017-09-23 11:45:00,Saturday,2.0,0.0,0.0,0.0,0.0,wide receiver,New Mexico Game,game
+2057,pre,True,2017-09-23 11:55:00,Saturday,1.0,0.0,1.0,0.0,0.0,def tackle,New Mexico Game,game
+2056,pre,True,2017-09-23 12:00:00,Saturday,1.0,0.0,0.0,0.0,0.0,def tackle,New Mexico Game,game
+2055,pre,True,2017-09-23 12:00:00,Saturday,0.0,1.0,0.0,0.0,0.0,wide receiver,New Mexico Game,game
+2054,pre,True,2017-09-23 12:00:00,Saturday,1.0,0.0,0.0,0.0,0.0,cornerback,New Mexico Game,game
+2053,pre,True,2017-09-23 12:05:00,Saturday,1.0,1.0,0.0,0.0,0.0,linebacker,New Mexico Game,game
+2052,pre,True,2017-09-23 12:05:00,Saturday,2.0,0.0,1.0,0.0,0.0,wide receiver,New Mexico Game,game
+2051,pre,True,2017-09-23 12:05:00,Saturday,0.0,2.0,0.0,0.0,0.0,linebacker,New Mexico Game,game
+1912,pre,True,2017-09-26 15:40:00,Tuesday,1.0,0.0,0.0,0.0,0.0,tight end,Navy #1,tues
+1874,pre,True,2017-09-27 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,cornerback,Navy #2,wed
+1873,pre,True,2017-09-27 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,linebacker,Navy #2,wed
+1872,pre,True,2017-09-27 15:40:00,Wednesday,1.0,3.0,0.0,0.0,1.0,tight end,Navy #2,wed
+1797,pre,True,2017-09-30 13:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,wide receiver,Navy Game,game
+1796,pre,True,2017-09-30 13:55:00,Saturday,1.0,0.0,0.0,0.0,0.0,linebacker,Navy Game,game
+1795,pre,True,2017-09-30 14:00:00,Saturday,1.0,0.0,0.0,0.0,0.0,def end,Navy Game,game
+1794,pre,True,2017-09-30 14:00:00,Saturday,2.0,1.0,0.0,0.0,0.0,linebacker,Navy Game,game
+1793,pre,True,2017-09-30 14:00:00,Saturday,0.0,2.0,1.0,0.0,0.0,linebacker,Navy Game,game
+1792,pre,True,2017-09-30 14:00:00,Saturday,1.0,0.0,0.0,0.0,0.0,running back,Navy Game,game
+1791,pre,True,2017-09-30 14:00:00,Saturday,2.0,0.0,0.0,0.0,0.0,tight end,Navy Game,game
+1790,pre,True,2017-09-30 14:00:00,Saturday,0.0,1.0,0.0,0.0,0.0,cornerback,Navy Game,game
+1789,pre,True,2017-09-30 14:05:00,Saturday,0.0,1.0,0.0,0.0,0.0,off guard,Navy Game,game
+1788,pre,True,2017-09-30 14:10:00,Saturday,3.0,0.0,0.0,0.0,0.0,def end,Navy Game,game
+1787,pre,True,2017-09-30 14:10:00,Saturday,1.0,1.0,0.0,0.0,0.0,running back,Navy Game,game
+1638,pre,True,2017-10-03 15:35:00,Tuesday,1.0,0.0,0.0,0.0,0.0,tight end,Tulane #1,tues
+1605,pre,True,2017-10-07 09:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,linebacker,Tulane Game,game
+1604,pre,True,2017-10-07 09:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,def end,Tulane Game,game
+1500,pre,True,2017-10-10 15:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,tight end,Houston #1,tues
+1463,pre,True,2017-10-11 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,tight end,Houston #2,wed
+1427,post,False,2017-10-11 17:40:00,Wednesday,0.0,1.0,0.0,0.0,0.0,tight end,Houston #2,wed
+1417,pre,True,2017-10-14 14:10:00,Saturday,1.0,0.0,0.0,0.0,0.0,wide receiver,Houston Game,game
+1416,pre,True,2017-10-14 14:15:00,Saturday,1.0,1.0,0.0,0.0,0.0,wide receiver,Houston Game,game
+1415,pre,True,2017-10-14 14:30:00,Saturday,0.0,0.0,1.0,0.0,0.0,def end,Houston Game,game
+1414,pre,True,2017-10-14 14:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,def end,Houston Game,game
+1413,pre,True,2017-10-14 14:30:00,Saturday,1.0,1.0,0.0,0.0,0.0,linebacker,Houston Game,game
+1273,pre,True,2017-10-17 15:35:00,Tuesday,2.0,0.0,0.0,0.0,0.0,tight end,Conneticut #1,tues
+1234,pre,True,2017-10-18 15:35:00,Wednesday,1.0,0.0,0.0,0.0,0.0,off tackle,Conneticut #2,wed
+1202,pre,True,2017-10-19 15:30:00,Thursday,1.0,0.0,0.0,0.0,0.0,cornerback,Conneticut #3,thurs
+1201,pre,True,2017-10-19 15:35:00,Thursday,0.0,1.0,0.0,0.0,0.0,tight end,Conneticut #3,thurs
+1200,pre,True,2017-10-19 15:35:00,Thursday,1.0,0.0,0.0,0.0,0.0,cornerback,Conneticut #3,thurs
+1199,pre,True,2017-10-19 15:35:00,Thursday,1.0,0.0,0.0,0.0,0.0,linebacker,Conneticut #3,thurs
+1198,pre,True,2017-10-19 15:40:00,Thursday,0.0,1.0,0.0,0.0,0.0,cornerback,Conneticut #3,thurs
+1174,pre,True,2017-10-21 10:00:00,Saturday,1.0,0.0,0.0,0.0,0.0,wide receiver,Conneticut Game,game
+1173,pre,True,2017-10-21 10:10:00,Saturday,0.0,2.0,0.0,0.0,0.0,tight end,Conneticut Game,game
+1172,pre,True,2017-10-21 10:10:00,Saturday,1.0,0.0,0.0,0.0,0.0,wide receiver,Conneticut Game,game
+1171,pre,True,2017-10-21 10:15:00,Saturday,0.0,0.0,2.0,0.0,0.0,running back,Conneticut Game,game
+1169,pre,True,2017-10-21 10:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,cornerback,Conneticut Game,game
+1168,pre,True,2017-10-21 10:30:00,Saturday,2.0,1.0,0.0,0.0,0.0,linebacker,Conneticut Game,game
+1167,pre,True,2017-10-21 10:30:00,Saturday,0.0,1.0,0.0,0.0,0.0,cornerback,Conneticut Game,game
+1166,pre,True,2017-10-21 10:30:00,Saturday,1.0,1.0,0.0,0.0,0.0,linebacker,Conneticut Game,game
+1165,pre,True,2017-10-21 10:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,tight end,Conneticut Game,game
+1170,pre,True,2017-10-21 10:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,def tackle,Conneticut Game,game
+1164,pre,True,2017-10-21 10:35:00,Saturday,0.0,0.0,1.0,0.0,0.0,off guard,Conneticut Game,game
+1163,pre,True,2017-10-21 10:35:00,Saturday,0.0,1.0,0.0,0.0,0.0,linebacker,Conneticut Game,game
+1162,pre,True,2017-10-21 10:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,running back,Conneticut Game,game
+1161,pre,True,2017-10-21 10:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,tight end,Conneticut Game,game
+1037,pre,True,2017-10-24 15:25:00,Tuesday,2.0,0.0,0.0,0.0,0.0,linebacker,S Methodist #1,tues
+1036,pre,True,2017-10-24 15:35:00,Tuesday,2.0,1.0,0.0,0.0,0.0,off tackle,S Methodist #1,tues
+1035,pre,True,2017-10-24 15:35:00,Tuesday,1.0,0.0,0.0,0.0,0.0,tight end,S Methodist #1,tues
+1034,pre,True,2017-10-24 15:35:00,Tuesday,0.0,0.0,0.0,1.0,0.0,wide receiver,S Methodist #1,tues
+1028,pre,True,2017-10-24 15:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,tight end,S Methodist #1,tues
+1029,pre,True,2017-10-24 15:40:00,Tuesday,1.0,0.0,0.0,0.0,0.0,linebacker,S Methodist #1,tues
+1033,pre,True,2017-10-24 15:40:00,Tuesday,3.0,0.0,0.0,0.0,0.0,off tackle,S Methodist #1,tues
+1031,pre,True,2017-10-24 15:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,off guard,S Methodist #1,tues
+1032,pre,True,2017-10-24 15:40:00,Tuesday,1.0,0.0,1.0,1.0,0.0,tight end,S Methodist #1,tues
+1030,pre,True,2017-10-24 15:40:00,Tuesday,1.0,0.0,0.0,0.0,0.0,running back,S Methodist #1,tues
+947,pre,True,2017-10-25 15:40:00,Wednesday,0.0,1.0,0.0,0.0,0.0,off guard,S Methodist #2,wed/thurs
+948,pre,True,2017-10-25 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,cornerback,S Methodist #2,wed/thurs
+951,pre,True,2017-10-25 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,tight end,S Methodist #2,wed/thurs
+950,pre,True,2017-10-25 15:40:00,Wednesday,1.0,0.0,0.0,0.0,1.0,wide receiver,S Methodist #2,wed/thurs
+949,pre,True,2017-10-25 15:40:00,Wednesday,2.0,0.0,0.0,0.0,0.0,off tackle,S Methodist #2,wed/thurs
+893,pre,True,2017-10-27 19:05:00,Friday,1.0,0.0,0.0,0.0,0.0,running back,S Methodist Game,game
+892,pre,True,2017-10-27 19:10:00,Friday,1.0,0.0,0.0,0.0,0.0,wide receiver,S Methodist Game,game
+891,pre,True,2017-10-27 19:15:00,Friday,1.0,0.0,0.0,0.0,0.0,running back,S Methodist Game,game
+890,pre,True,2017-10-27 19:30:00,Friday,1.0,0.0,0.0,0.0,0.0,def end,S Methodist Game,game
+889,pre,True,2017-10-27 19:30:00,Friday,1.0,0.0,0.0,0.0,0.0,cornerback,S Methodist Game,game
+888,pre,True,2017-10-27 19:30:00,Friday,0.0,0.0,0.0,0.0,1.0,wide receiver,S Methodist Game,game
+883,pre,True,2017-10-27 19:35:00,Friday,0.0,0.0,1.0,0.0,0.0,cornerback,S Methodist Game,game
+887,pre,True,2017-10-27 19:35:00,Friday,0.0,1.0,0.0,1.0,0.0,linebacker,S Methodist Game,game
+886,pre,True,2017-10-27 19:35:00,Friday,0.0,0.0,0.0,0.0,1.0,cornerback,S Methodist Game,game
+885,pre,True,2017-10-27 19:35:00,Friday,1.0,0.0,0.0,0.0,0.0,def end,S Methodist Game,game
+884,pre,True,2017-10-27 19:35:00,Friday,0.0,2.0,0.0,0.0,0.0,linebacker,S Methodist Game,game
+882,pre,True,2017-10-27 19:40:00,Friday,1.0,0.0,0.0,0.0,0.0,cornerback,S Methodist Game,game
+761,pre,True,2017-10-31 15:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,off tackle,Memphis #1,tues
+762,pre,True,2017-10-31 15:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,off guard,Memphis #1,tues
+763,pre,True,2017-10-31 15:40:00,Tuesday,0.0,1.0,0.0,0.0,0.0,cornerback,Memphis #1,tues
+714,pre,True,2017-11-01 15:35:00,Wednesday,1.0,0.0,0.0,0.0,0.0,off guard,Memphis #2,wed/thurs
+712,pre,True,2017-11-01 15:40:00,Wednesday,1.0,0.0,0.0,0.0,0.0,cornerback,Memphis #2,wed/thurs
+713,pre,True,2017-11-01 15:40:00,Wednesday,1.0,1.0,0.0,0.0,0.0,tight end,Memphis #2,wed/thurs
+683,pre,True,2017-11-03 18:15:00,Friday,1.0,1.0,0.0,0.0,0.0,wide receiver,Memphis Game,game
+682,pre,True,2017-11-03 18:20:00,Friday,2.0,0.0,0.0,0.0,0.0,wide receiver,Memphis Game,game
+681,pre,True,2017-11-03 18:30:00,Friday,0.0,1.0,0.0,0.0,1.0,def end,Memphis Game,game
+680,pre,True,2017-11-03 18:30:00,Friday,0.0,1.0,0.0,0.0,0.0,linebacker,Memphis Game,game
+679,pre,True,2017-11-03 18:35:00,Friday,0.0,1.0,0.0,0.0,0.0,def end,Memphis Game,game
+539,pre,True,2017-11-08 15:35:00,Wednesday,1.0,0.0,0.0,0.0,0.0,cornerback,S Florida #1,tues
+538,pre,True,2017-11-08 15:35:00,Wednesday,1.0,1.0,0.0,0.0,0.0,off guard,S Florida #1,tues
+537,pre,True,2017-11-08 15:40:00,Wednesday,3.0,1.0,0.0,0.0,0.0,off guard,S Florida #1,tues
+503,pre,True,2017-11-09 15:35:00,Thursday,1.0,0.0,0.0,0.0,0.0,off guard,S Florida #2,tues
+502,pre,True,2017-11-09 15:40:00,Thursday,2.0,2.0,0.0,0.0,0.0,tight end,S Florida #2,tues
+477,pre,True,2017-11-12 14:35:00,Sunday,1.0,0.0,0.0,0.0,0.0,tight end,S Florida #3,thurs
+454,pre,True,2017-11-16 17:40:00,Thursday,0.0,1.0,0.0,0.0,0.0,wide receiver,S Florida Game,game
+453,pre,True,2017-11-16 17:45:00,Thursday,0.0,1.0,0.0,0.0,0.0,tight end,S Florida Game,game
+452,pre,True,2017-11-16 18:00:00,Thursday,0.0,1.0,0.0,0.0,0.0,linebacker,S Florida Game,game
+451,pre,True,2017-11-16 18:00:00,Thursday,0.0,1.0,1.0,0.0,0.0,def end,S Florida Game,game
+450,pre,True,2017-11-16 18:00:00,Thursday,0.0,0.0,1.0,0.0,0.0,def end,S Florida Game,game
+449,pre,True,2017-11-16 18:05:00,Thursday,1.0,0.0,0.0,0.0,0.0,linebacker,S Florida Game,game
+325,pre,True,2017-11-21 14:35:00,Tuesday,1.0,0.0,0.0,0.0,0.0,cornerback,Temple #1,tues
+324,pre,True,2017-11-21 14:35:00,Tuesday,0.0,1.0,0.0,0.0,0.0,off guard,Temple #1,tues
+321,pre,True,2017-11-21 14:40:00,Tuesday,2.0,0.0,0.0,0.0,0.0,off tackle,Temple #1,tues
+323,pre,True,2017-11-21 14:40:00,Tuesday,1.0,0.0,0.0,0.0,0.0,wide receiver,Temple #1,tues
+322,pre,True,2017-11-21 14:40:00,Tuesday,1.0,1.0,0.0,0.0,0.0,off guard,Temple #1,tues
+267,pre,True,2017-11-22 14:05:00,Wednesday,1.0,0.0,0.0,0.0,0.0,running back,Temple #2,wed
+266,pre,True,2017-11-22 14:05:00,Wednesday,0.0,1.0,0.0,0.0,0.0,off guard,Temple #2,wed
+268,pre,True,2017-11-22 14:05:00,Wednesday,1.0,1.0,0.0,0.0,0.0,off tackle,Temple #2,wed
+265,pre,True,2017-11-22 14:10:00,Wednesday,2.0,0.0,0.0,0.0,0.0,off guard,Temple #2,wed
+264,pre,True,2017-11-22 14:10:00,Wednesday,0.0,0.0,1.0,0.0,0.0,off tackle,Temple #2,wed
+263,pre,True,2017-11-22 14:10:00,Wednesday,1.0,0.0,0.0,0.0,0.0,off tackle,Temple #2,wed
+217,pre,True,2017-11-23 08:25:00,Thursday,1.0,0.0,0.0,0.0,0.0,def tackle,Temple #3,thurs
+216,pre,True,2017-11-23 08:35:00,Thursday,1.0,0.0,0.0,0.0,0.0,tight end,Temple #3,thurs
+215,pre,True,2017-11-23 08:35:00,Thursday,1.0,0.0,1.0,0.0,0.0,off guard,Temple #3,thurs
+180,pre,True,2017-11-25 14:05:00,Saturday,0.0,1.0,0.0,0.0,0.0,wide receiver,Temple Game,game
+179,pre,True,2017-11-25 14:15:00,Saturday,1.0,0.0,0.0,0.0,0.0,wide receiver,Temple Game,game
+178,pre,True,2017-11-25 14:15:00,Saturday,1.0,1.0,0.0,0.0,0.0,wide receiver,Temple Game,game
+177,pre,True,2017-11-25 14:25:00,Saturday,0.0,0.0,0.0,1.0,0.0,running back,Temple Game,game
+176,pre,True,2017-11-25 14:25:00,Saturday,0.0,1.0,0.0,0.0,0.0,off guard,Temple Game,game
+175,pre,True,2017-11-25 14:25:00,Saturday,1.0,1.0,0.0,0.0,0.0,cornerback,Temple Game,game
+174,pre,True,2017-11-25 14:25:00,Saturday,1.0,0.0,0.0,0.0,0.0,off guard,Temple Game,game
+173,pre,True,2017-11-25 14:25:00,Saturday,1.0,1.0,0.0,0.0,0.0,tight end,Temple Game,game
+166,pre,True,2017-11-25 14:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,linebacker,Temple Game,game
+165,pre,True,2017-11-25 14:30:00,Saturday,2.0,1.0,0.0,0.0,0.0,def end,Temple Game,game
+168,pre,True,2017-11-25 14:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,off guard,Temple Game,game
+167,pre,True,2017-11-25 14:30:00,Saturday,1.0,1.0,0.0,0.0,0.0,wide receiver,Temple Game,game
+172,pre,True,2017-11-25 14:30:00,Saturday,2.0,1.0,1.0,0.0,0.0,def end,Temple Game,game
+171,pre,True,2017-11-25 14:30:00,Saturday,1.0,1.0,0.0,0.0,0.0,linebacker,Temple Game,game
+169,pre,True,2017-11-25 14:30:00,Saturday,0.0,2.0,0.0,0.0,0.0,running back,Temple Game,game
+170,pre,True,2017-11-25 14:30:00,Saturday,1.0,0.0,0.0,0.0,0.0,def tackle,Temple Game,game
+164,pre,True,2017-11-25 14:35:00,Saturday,0.0,0.0,1.0,0.0,0.0,linebacker,Temple Game,game
+163,pre,True,2017-11-25 14:35:00,Saturday,0.0,1.0,0.0,0.0,0.0,def end,Temple Game,game
+162,pre,True,2017-11-25 14:35:00,Saturday,2.0,0.0,0.0,0.0,0.0,off guard,Temple Game,game
+161,pre,True,2017-11-25 14:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,off tackle,Temple Game,game
+160,pre,True,2017-11-25 14:35:00,Saturday,0.0,1.0,0.0,0.0,0.0,off guard,Temple Game,game
+158,pre,True,2017-11-25 14:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,linebacker,Temple Game,game
+157,pre,True,2017-11-25 14:35:00,Saturday,0.0,1.0,0.0,0.0,0.0,wide receiver,Temple Game,game
+159,pre,True,2017-11-25 14:35:00,Saturday,1.0,0.0,0.0,0.0,0.0,running back,Temple Game,game
+156,pre,True,2017-11-25 14:40:00,Saturday,1.0,0.0,2.0,0.0,0.0,running back,Temple Game,game
+155,pre,True,2017-11-25 14:40:00,Saturday,1.0,0.0,0.0,0.0,0.0,cornerback,Temple Game,game
+154,pre,True,2017-11-25 14:40:00,Saturday,1.0,2.0,0.0,0.0,0.0,cornerback,Temple Game,game
