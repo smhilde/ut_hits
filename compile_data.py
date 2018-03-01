@@ -275,4 +275,4 @@ if __name__ == '__main__':
     compile_data(input_files, norm_methods=(None, None)).to_csv('compiled_raw.csv') 
     compile_data(input_files, norm_methods=('by_position', None)).to_csv('compiled_by_position.csv')  
     compile_data(input_files, norm_methods=('by_activity', None)).to_csv('compiled_by_activity.csv')
-    compile_data(input_files, norm_methods=(None, 'by_time')).to_csv('compiled_by_time.csv')
+    compile_data(input_files, norm_methods=('by_activity', 'by_time')).to_csv('compiled_by_time_activity.csv')
