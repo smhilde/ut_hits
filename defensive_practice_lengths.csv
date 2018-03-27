@@ -1,0 +1,122 @@
+name,prebreak,day,length
+fall camp practice #1,post,2017-07-31,53.0
+fall camp practice #1,pre,2017-07-31,67.0
+fall camp practice #2,post,2017-08-01,53.0
+fall camp practice #2,pre,2017-08-01,67.0
+fall camp practice #3,post,2017-08-02,52.0
+fall camp practice #3,pre,2017-08-02,84.0
+fall camp practice #4,post,2017-08-03,52.0
+fall camp practice #4,pre,2017-08-03,84.0
+fall camp practice #5,post,2017-08-04,52.0
+fall camp practice #5,pre,2017-08-04,84.0
+fall camp practice #6,post,2017-08-06,52.0
+fall camp practice #6,pre,2017-08-06,84.0
+fall camp practice #7,post,2017-08-07,52.0
+fall camp practice #7,pre,2017-08-07,84.0
+fall camp practice #8,post,2017-08-08,52.0
+fall camp practice #8,pre,2017-08-08,84.0
+fall camp scrimmage #1,post,2017-08-09,122.0
+fall camp scrimmage #1,pre,2017-08-09,38.0
+fall camp practice #10,post,2017-08-11,52.0
+fall camp practice #10,pre,2017-08-11,84.0
+fall camp practice #11,post,2017-08-12,52.0
+fall camp practice #11,pre,2017-08-12,94.0
+fall camp practice #12,post,2017-08-13,52.0
+fall camp practice #12,pre,2017-08-13,84.0
+fall camp practice #13,post,2017-08-14,52.0
+fall camp practice #13,pre,2017-08-14,84.0
+fall camp practice #14,post,2017-08-16,52.0
+fall camp practice #14,pre,2017-08-16,84.0
+fall camp walk thru #2,pre,2017-08-17,72.0
+fall camp scrimmage #2,post,2017-08-18,97.0
+fall camp scrimmage #2,pre,2017-08-18,46.0
+fall camp practice #17,pre,2017-08-19,72.0
+Oklahoma State #1,post,2017-08-20,60.0
+Oklahoma State #1,pre,2017-08-20,58.0
+Oklahoma State #2,post,2017-08-22,57.0
+Oklahoma State #2,pre,2017-08-22,68.0
+Oklahoma State #3,post,2017-08-23,42.0
+Oklahoma State #3,pre,2017-08-23,91.0
+Oklahoma State Scrim,post,2017-08-24,60.0
+Oklahoma State Scrim,pre,2017-08-24,28.0
+Oklahoma State #5,post,2017-08-25,57.0
+Oklahoma State #5,pre,2017-08-25,68.0
+Oklahoma State #6,post,2017-08-26,65.0
+Oklahoma State #6,pre,2017-08-26,68.0
+Oklahoma State #7,pre,2017-08-27,92.0
+Oklahoma State #8,pre,2017-08-29,92.0
+Oklahoma State Game,post,2017-08-31,100.0
+Oklahoma State Game,pre,2017-08-31,175.0
+Louisiana #1,post,2017-09-05,57.0
+Louisiana #1,pre,2017-09-05,70.0
+Louisiana #2,post,2017-09-06,57.0
+Louisiana #2,pre,2017-09-06,78.0
+Louisiana #3,pre,2017-09-07,122.0
+Louisiana Game,post,2017-09-09,95.0
+Louisiana Game,pre,2017-09-09,185.0
+Toledo #1,post,2017-09-12,57.0
+Toledo #1,pre,2017-09-12,70.0
+Toledo #2,post,2017-09-13,57.0
+Toledo #2,pre,2017-09-13,78.0
+Toledo #3,pre,2017-09-14,132.0
+Toledo Game,post,2017-09-16,110.0
+Toledo Game,pre,2017-09-16,175.0
+New Mexico #1,post,2017-09-19,57.0
+New Mexico #1,pre,2017-09-19,70.0
+New Mexico #2,post,2017-09-20,57.0
+New Mexico #2,pre,2017-09-20,70.0
+New Mexico #3,pre,2017-09-21,122.0
+New Mexico Game,post,2017-09-23,80.0
+New Mexico Game,pre,2017-09-23,170.0
+Navy #1,post,2017-09-26,50.0
+Navy #1,pre,2017-09-26,70.0
+Navy #2,post,2017-09-27,57.0
+Navy #2,pre,2017-09-27,70.0
+Navy #3,pre,2017-09-28,122.0
+Navy Game,post,2017-09-30,105.0
+Navy Game,pre,2017-09-30,160.0
+Tulane #1,post,2017-10-03,57.0
+Tulane #1,pre,2017-10-03,70.0
+Tulane #2,pre,2017-10-05,122.0
+Tulane Game,post,2017-10-07,80.0
+Tulane Game,pre,2017-10-07,165.0
+Houston #1,post,2017-10-10,57.0
+Houston #1,pre,2017-10-10,70.0
+Houston #2,post,2017-10-11,49.0
+Houston #2,pre,2017-10-11,78.0
+Houston #3,pre,2017-10-12,122.0
+Houston Game,post,2017-10-14,95.0
+Houston Game,pre,2017-10-14,170.0
+Conneticut #1,post,2017-10-17,57.0
+Conneticut #1,pre,2017-10-17,70.0
+Conneticut #2,post,2017-10-18,49.0
+Conneticut #2,pre,2017-10-18,78.0
+Conneticut #3,pre,2017-10-19,122.0
+Conneticut Game,post,2017-10-21,100.0
+Conneticut Game,pre,2017-10-21,155.0
+S Methodist #1,post,2017-10-24,55.0
+S Methodist #1,pre,2017-10-24,76.0
+S Methodist #2,pre,2017-10-25,102.0
+S Methodist Game,post,2017-10-27,110.0
+S Methodist Game,pre,2017-10-27,170.0
+Memphis #1,post,2017-10-31,55.0
+Memphis #1,pre,2017-10-31,66.0
+Memphis #2,pre,2017-11-01,110.0
+Memphis Game,post,2017-11-03,95.0
+Memphis Game,pre,2017-11-03,165.0
+Bye #1,pre,2017-11-07,77.0
+S Florida #1,post,2017-11-08,49.0
+S Florida #1,pre,2017-11-08,60.0
+S Florida #2,post,2017-11-09,49.0
+S Florida #2,pre,2017-11-09,52.0
+S Florida #3,pre,2017-11-12,112.0
+S Florida #4,pre,2017-11-14,112.0
+S Florida Game,post,2017-11-16,95.0
+S Florida Game,pre,2017-11-16,165.0
+Temple #1,post,2017-11-21,57.0
+Temple #1,pre,2017-11-21,70.0
+Temple #2,post,2017-11-22,49.0
+Temple #2,pre,2017-11-22,78.0
+Temple #3,pre,2017-11-23,122.0
+Temple Game,post,2017-11-25,180.0
+Temple Game,pre,2017-11-25,175.0

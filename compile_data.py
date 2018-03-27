@@ -177,17 +177,19 @@ def get_num_players(method='by_position', data={}):
         raise NotImplementedError
 
 def get_duration(data={}):
-    hit_date = data['hit_date']
-    if data['event'] == 'game':
+    if data['event_type'] == 'game':
+        hit_date = data['hit_date']
         game_dur_df = data['game_dur_df']
         ptype = data['ptype']
         activity = data['activity']
         date_mask = [dd.date() == hit_date.date() for dd in game_dur_df.index]
         return game_dur_df.loc[date_mask, (ptype, activity)].iloc[0]
     else:
-        practice = data['practice_df']
-        activity_idx = get_activity_idx(practice, hit_date)
-        return practice.loc[practice.index[activity_idx], 'length']
+        durs = data['durations']
+        event = data['event']
+        prebrk = data['prebreak']
+        return durs[np.logical_and(durs.prebreak == prebrk,
+                                   durs.name == event)].length.values[0]
 
 def normalize_hits(hit, player_method=None, time_method=None, data={}):
     hit = copy.deepcopy(hit).astype(np.float64)
@@ -244,12 +246,26 @@ def get_hits_out_of_event(input_files):
              .assign(in_event=lambda x: x.apply(de, axis=1)))
     hits = hits.drop(hits.columns[range(2, 22)], axis=1)
     hits[hits.in_event == False].to_csv('hits_not_during_events.csv')
+    
+def get_practice_times_pre_post(practices):
+    # Just select the offensive practices - they should be the same
+    for p in practices:
+        practice = practices[p]
+        practice['day'] = [pd.to_datetime(x).date() for x in practice['date']]
+        practice['prebreak'] = ['pre' if before_break(practice, x['date'])
+                                else 'post'
+                                for idx, x in practice.iterrows()]
+        (practice.groupby(['name', 'prebreak', 'day'], as_index=False)
+            .sum()
+            .sort_values(by=['day', 'name', 'prebreak'])
+            .to_csv('{}_practice_lengths.csv'.format(p), index=False))
             
 def compile_data(input_files, norm_methods=(None, None)):
     hits = read_hit_data(input_files['hits'])
     practices = read_practice_data(input_files['practices'])
     att = read_attendance_data(input_files['attendance'])
     game_dur = read_game_durations(input_files['game_duration'])
+    duration_data = pd.read_csv('practice_lengths.csv')
     #parti = read_participation_data(input_files['participation'])
     event_df = read_event_types(input_files['event_types'])
     psn_to_pcode = read_serial_num_to_position(input_files['psn_to_pcode'])
@@ -268,10 +284,14 @@ def compile_data(input_files, norm_methods=(None, None)):
             continue
         # Look up the hit player's position
         player_position = get_player_position(psn_to_pcode, hit.Number)
+        # Look up the event
+        event = get_practice_name(practice, hit_date)
         # Look up the event type
-        event = get_event_type(event_df, hit_date)
+        event_type = get_event_type(event_df, hit_date)
         # Look up the activity
         activity = get_activity(practice, pcode, hit_date)
+        # Determine pre/post break
+        prebreak = 'pre' if before_break(practice, hit_date) else 'post'
         # Normalize the hit data
         data = {'attendance_df': att,
                 'practice_df': practice,
@@ -279,20 +299,24 @@ def compile_data(input_files, norm_methods=(None, None)):
                 'pcode': pcode,
                 'ptype': player_type,
                 'event': event,
+                'event_type': event_type,
                 'activity': activity,
                 'hit': hit,
-                'hit_date': hit_date}
+                'hit_date': hit_date,
+                'durations': duration_data,
+                'prebreak': prebreak}
         hit = normalize_hits(hit, *norm_methods, data)
             
         print('Processing hit...\n'+
               '\tHit Date: {}\n'.format(hit_date))
         
         # Add results to list
-        results.append({'event': get_practice_name(practice, hit_date),
+        results.append({'event': event,
+                        'event_type': event_type,
                         'date': hit_date,
                         'type': event,
                         'activity': activity,
-                        'before_break': before_break(practice, hit_date),
+                        'before_break': prebreak,
                         'player': player_position,
                         #'h1': hit['sum 1'], 
                         'h2': hit['sum 2'], 
@@ -304,7 +328,7 @@ def compile_data(input_files, norm_methods=(None, None)):
 #--------------#
 # MAIN PROGRAM #
 #--------------#
-if __name__ == '__main__':    
+if __name__ == '__main__':     
     input_files = {'hits': 'Tulsa_HIE_5 minute increments final.xlsx',
                    'practices': 'practices.xlsx',
                    'attendance': 'attendance.xlsx',
@@ -314,6 +338,6 @@ if __name__ == '__main__':
                    'psn_to_pcode': 'serial_number_to_position.xlsx'}
     
     compile_data(input_files, norm_methods=(None, None)).to_csv('compiled_raw.csv') 
-    compile_data(input_files, norm_methods=('by_position', None)).to_csv('compiled_by_position.csv')  
-    compile_data(input_files, norm_methods=('by_activity', None)).to_csv('compiled_by_activity.csv')
-    compile_data(input_files, norm_methods=('by_activity', 'by_time')).to_csv('compiled_by_time_activity.csv')
+    #compile_data(input_files, norm_methods=('by_position', None)).to_csv('compiled_by_position.csv')  
+    #compile_data(input_files, norm_methods=('by_activity', None)).to_csv('compiled_by_activity.csv')
+    #compile_data(input_files, norm_methods=('by_activity', 'by_time')).to_csv('compiled_by_time_activity_test.csv')
