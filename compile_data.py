@@ -312,18 +312,21 @@ def compile_data(input_files, norm_methods=(None, None)):
         
         # Add results to list
         results.append({'event': event,
-                        'event_type': event_type,
+                        'type': event_type,
                         'date': hit_date,
-                        'type': event,
                         'activity': activity,
                         'before_break': prebreak,
                         'player': player_position,
+                        'pcode': pcode,
+                        'ptype': player_type,
                         #'h1': hit['sum 1'], 
                         'h2': hit['sum 2'], 
                         'h3': hit['sum 3'], 
                         'h4': hit['sum 4'],
                         'h5': hit['sum 5']})        
-    return pd.DataFrame(results).sort_values(by=['date'])
+    return (pd.DataFrame(results)
+              .assign(day=lambda x: [pd.to_datetime(y).date() for y in x.date])
+              .sort_values(by=['date']))
     
 #--------------#
 # MAIN PROGRAM #
