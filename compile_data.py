@@ -264,8 +264,8 @@ def compile_data(input_files, norm_methods=(None, None)):
     hits = read_hit_data(input_files['hits'])
     practices = read_practice_data(input_files['practices'])
     att = read_attendance_data(input_files['attendance'])
-    game_dur = read_game_durations(input_files['game_duration'])
-    duration_data = pd.read_csv('practice_lengths.csv')
+    #game_dur = read_game_durations(input_files['game_duration'])
+    #duration_data = pd.read_csv('practice_lengths.csv')
     #parti = read_participation_data(input_files['participation'])
     event_df = read_event_types(input_files['event_types'])
     psn_to_pcode = read_serial_num_to_position(input_files['psn_to_pcode'])
@@ -295,7 +295,7 @@ def compile_data(input_files, norm_methods=(None, None)):
         # Normalize the hit data
         data = {'attendance_df': att,
                 'practice_df': practice,
-                'game_dur_df': game_dur,
+                #'game_dur_df': game_dur,
                 'pcode': pcode,
                 'ptype': player_type,
                 'event': event,
@@ -303,7 +303,7 @@ def compile_data(input_files, norm_methods=(None, None)):
                 'activity': activity,
                 'hit': hit,
                 'hit_date': hit_date,
-                'durations': duration_data,
+                #'durations': duration_data,
                 'prebreak': prebreak}
         hit = normalize_hits(hit, *norm_methods, data)
             
@@ -336,7 +336,7 @@ if __name__ == '__main__':
                    'practices': 'practices.xlsx',
                    'attendance': 'attendance.xlsx',
                    'event_types': 'event_type.xlsx',
-                   'game_duration': 'minutes_per_game.xlsx',
+                    #'game_duration': 'minutes_per_game.xlsx',
                    'pcode_to_ptype': 'player_code_to_type.xlsx',
                    'psn_to_pcode': 'serial_number_to_position.xlsx'}
     
