@@ -332,7 +332,7 @@ def compile_data(input_files, norm_methods=(None, None)):
 # MAIN PROGRAM #
 #--------------#
 if __name__ == '__main__':     
-    input_files = {'hits': 'Tulsa_HIE_5 minute increments final.xlsx',
+    input_files = {'hits': 'Tulsa_HIE_5 minute increments final- corrected 7-10.xlsx',
                    'practices': 'practices.xlsx',
                    'attendance': 'attendance.xlsx',
                    'event_types': 'event_type.xlsx',
