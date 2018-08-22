@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 old_data/
 __pycache__/
+*.zip
